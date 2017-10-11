@@ -1,6 +1,6 @@
 Untitled
 ================
-Jordan Howell
+Jordan H
 
 This is a markdown file
 -----------------------

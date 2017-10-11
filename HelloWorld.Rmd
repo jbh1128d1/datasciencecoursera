@@ -1,7 +1,7 @@
 ---
 title: "Untitled"
 output: github_document
-author: Jordan Howell
+author: Jordan H
 ---
 
 ## This is a markdown file
